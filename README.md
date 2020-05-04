@@ -4,6 +4,8 @@ This repository contains the design files for the Time Blaster project part of F
 
 The design is based around an ATMega328p, some IR receivers and an IR LED.
 
+The progress of this project can be followed on [Hackaday.io](https://hackaday.io/project/167668-time-blaster)
+
 ## Hardware Revision 00
 
 ![Time Blaster 00 Flat](media/Time_Blaster_00_FLAT.jpg)
