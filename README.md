@@ -37,9 +37,11 @@ The 10KΩ resistor has been marked with a red permanent marker since the color c
 The side of the trigger switch can be chosen depending on left hand or right hand use case
 
 ## Team selection switch
-Take note of silkscreen on the PCB for correct placement of the Team selector switch.
+Take note of silkscreen on the PCB for correct placement of the team selector switch. The switch has metal on 1 side, this side is also indicated on the PCB and should face the team names.
 
-![Time Blaster Assembly Team Switch](media/ASSY_TeamSW.jpg)
+![Time Blaster Assembly Team Switch Render](media/ASSY_TeamSW.jpg)
+
+![Time Blaster Assembly Team Switch](media/ASSY_TeamSW2.jpg)
  
 ## Microcontroller soldering note
 Take care when mounting the ATMega328p microcontroller, don't heat up the pins too long to avoid damaging them. To avoid creating a hot spot, you can opt for alternating sides when soldering the pins.
