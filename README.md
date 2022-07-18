@@ -31,7 +31,7 @@ Added a series resistor for the IR LEDs, this is only required when powering the
 # Assembly Instructions
 
 ## Resistor note
-The 10KΩ resistor has been marked with a red permanent marker since the color coding for the 120Ω and 10KΩ resistor are too similar
+The 120Ω resistor has been marked with a red permanent marker since the color coding for the 120Ω and 10KΩ resistor are too similar
 
 ## Trigger switch
 The side of the trigger switch can be chosen depending on left hand or right hand use case
@@ -49,12 +49,15 @@ Take care when mounting the ATMega328p microcontroller, don't heat up the pins t
 ## Ring mounting
 Mount the rings with SMD LEDs before you solder the IR LED in place.
 
+## LED Polarity
+The IR LED has a small + polarity marking on the board, this is the hole for the long lead of the LED.
+
 ## Which components to mount
 R1 120Ω, MOSFET T1, R6 33Ω and IR LED D1 should be mounted 
 
 ![Time Blaster Assembly IR](media/ASSY_IR.jpg)
  
-Capacitor C4 (100nF), SW3 and right angle connector P3 are optional for Arduino style programming over FTDI UART connection.
+Capacitor C4 (100nF), push button SW3 and right angle connector P3 are optional for Arduino style programming over FTDI UART connection.
 
 ## USB
 Optional USB circuitry kits based around the CH340 USB to serial convertor are available upon request. These kits include an USB connector (USB-B, USB-C or Micro USB), 2 capacitors and the CH340 chip. In case of the USB-C variant, there will also be 2 resistors of 5.1kΩ included.
