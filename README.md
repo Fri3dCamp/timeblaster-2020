@@ -61,3 +61,9 @@ Capacitor C4 (100nF), push button SW3 and right angle connector P3 are optional 
 
 ## USB
 Optional USB circuitry kits based around the CH340 USB to serial convertor are available upon request. These kits include an USB connector (USB-B, USB-C or Micro USB), 2 capacitors and the CH340 chip. In case of the USB-C variant, there will also be 2 resistors of 5.1kΩ included.
+
+
+# 3D Printable grip
+Thomas Pilkington designed a 3D printable grip for the blaster which vastly improves the ergonomics of the blaster, especially for adults. These files can either be printed as-is or modified to your preference. The model contains cutouts for both left- and righthanded triggers and for the optional USB-B or USB-C connector.
+
+![Time Blaster with grip[](media/Time_Blaster_Grip.jpg)
