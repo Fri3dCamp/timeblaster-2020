@@ -64,6 +64,6 @@ Optional USB circuitry kits based around the CH340 USB to serial convertor are a
 
 
 # 3D Printable grip
-Thomas Pilkington designed a 3D printable grip for the blaster which vastly improves the ergonomics of the blaster, especially for adults. These files can either be printed as-is or modified to your preference. The model contains cutouts for both left- and righthanded triggers and for the optional USB-B or USB-C connector.
+Thomas Pilkington designed a 3D printable grip for the blaster which vastly improves the ergonomics of the blaster, especially for adults. These files can either be printed as-is or modified to your preference. The model contains cutouts for both left- and righthanded triggers and for the optional USB-B or USB-C connector. The guys from [KO-LAB](https://ko-lab.space/) slightly modified the design for better clearance, these v2 files can also be found in the grip directory.
 
 ![Time Blaster with grip](media/Time_Blaster_Grip.jpg)
