@@ -29,6 +29,7 @@ Added support for USB C and Micro USB. Fixed a bug with the USB Serial convertor
 Added a series resistor for the IR LEDs, this is only required when powering the device from 5V.
 
 # Assembly Instructions
+The assembly instructions can also be found in the leaflets located in the "media" folder of this repository
 
 ## Resistor note
 The 120Ω resistor has been marked with a red permanent marker since the color coding for the 120Ω and 10KΩ resistor are too similar
