@@ -28,6 +28,10 @@ Added support for USB C and Micro USB. Fixed a bug with the USB Serial convertor
 
 Added a series resistor for the IR LEDs, this is only required when powering the device from 5V.
 
+## Firmware
+
+The default firmware (which has already been flashed on the MCU) can be found on the [Area 3001 Github page](https://github.com/area3001/Timeblaster).
+
 # Assembly Instructions
 The assembly instructions can also be found in the leaflets located in the "media" folder of this repository
 
